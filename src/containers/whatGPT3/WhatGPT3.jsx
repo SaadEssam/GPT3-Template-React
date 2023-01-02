@@ -13,7 +13,7 @@ const WhatGPT3 = () => {
       </div>
       <div className="gpt3_whatgpt3-heading">
         <h1 className="gradient_text">The possibilities are beyond your imagination</h1>
-        <p>Explore The Library</p>
+        <p>Explore The Library →</p>
       </div>
       <div className="gpt3_whatgpt3-container">
         <Feature title="Chatbots" text="We so opinion friends me message as delight. 

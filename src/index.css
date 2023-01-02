@@ -12,3 +12,30 @@
   --color-text: #81AFDD;
   --color-subtext: #FF8A71;
 }
+
+
+/* Scrollbar Styling */
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #1b2743;
+  /* -webkit-border-radius: 10px; */
+  /* border-radius: 10px; */
+}
+
+::-webkit-scrollbar-thumb {
+  /* -webkit-border-radius: 10px; */
+  /* border-radius: 10px; */
+  background: linear-gradient(
+    157.81deg,
+    #85b5e9 -43.27%,
+    #6ea2da -21.24%,
+    #458fdf 12.19%,
+    #2d85e2 29.82%,
+    #1b78dd 51.94%,
+    #1669c3 90.29%
+  );
+
+}
